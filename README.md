@@ -16,7 +16,7 @@
 
 ## 💻 Working environment
 [![Android 13](https://img.shields.io/badge/Android%2013%20Tiramsu-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org/)
+[![Windows](https://img.shields.io/badge/Windows%2010-1793d1?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/software-download/windows10)
 
 ## 📱 Devices in use
 [![Redmi Note 8 Pro](https://img.shields.io/badge/-Redmi%20Note%208%20Pro-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/ru/redmi-note-8-pro/)
