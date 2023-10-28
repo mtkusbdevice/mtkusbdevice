@@ -21,3 +21,4 @@
 
 ## 📱 Devices in use
 [![Redmi Note 8 Pro](https://img.shields.io/badge/-Redmi%20Note%208%20Pro-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/ru/redmi-note-8-pro/)
+[![vivo Y1s](https://img.shields.io/badge/-vivo%20Y1s-blue?style=flat-square&logo=android&logoColor=ffffff)](https://vivo.com)
