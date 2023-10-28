@@ -1,7 +1,7 @@
 # vidowner
 
 ## 👋 Hello everyone!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidowner&show_icons=true&theme=merko)](https://github.com/vidowner)
+[![mtkusbdevice's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtkusbdevice&show_icons=true&theme=merko)](https://github.com/mtkusbdevice)
 
 - A Student
 - ru-RU / en-US / ua-UA
