@@ -1,7 +1,7 @@
 # mtkusbdevice
 
 ## 👋 Hewwo everynyan!~
-[![mtkusbdevice's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtkusbdevice&show_icons=true&theme=catppuccin_mocha)](https://github.com/mtkusbdevice)
+[![mtkusbdevice's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtkusbdevice&show_icons=true&theme=catppuccin_mocha&border_radius=12&hide_border=true)](https://github.com/mtkusbdevice)
 
 - A Student
 - ru-RU / en-US / ua-UA
