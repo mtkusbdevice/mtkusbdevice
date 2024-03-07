@@ -8,6 +8,12 @@
 - Russian / Ukraine, Donetskaya Oblast' / UTC+3
 - Coder / ~~Developer~~
 
+## 💻 Current Workstation specs
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+<br> 
+![GPU](https://img.shields.io/badge/AMD-Radeon_Asus_Dual_RX_6500XT_4GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
+
+
 ## 🌱 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=000)
 ![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=fff)
