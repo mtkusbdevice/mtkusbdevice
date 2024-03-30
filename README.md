@@ -11,9 +11,15 @@
 - Coder / ~~Developer~~
 
 ## 💻 Current Workstation specs
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![MB](https://img.shields.io/badge/Gigabyte-A520M_K-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+<br>
+![SSD1](https://img.shields.io/badge/Netac-Basic_512GB-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+<br>
+![SSD2](https://img.shields.io/badge/KIOXIA-Exceria_480GB-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+<br>
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5500-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 <br> 
-![GPU](https://img.shields.io/badge/AMD-Radeon_Asus_Dual_RX_6500XT_4GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
+![GPU](https://img.shields.io/badge/ASUS-Radeon_Dual_RX_6500XT_OC_4GB-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 
 
 ## 🌱 Programming Languages
