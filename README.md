@@ -21,16 +21,15 @@
 <br> 
 ![GPU](https://img.shields.io/badge/ASUS-Radeon_Dual_RX_6500XT_OC_4GB-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 
+## 💻 Working environment
+[![Android 14](https://img.shields.io/badge/Android%2014%20UPC-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://www.microsoft.com/en-us/software-download/windows10)
 
 ## 🌱 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=000)
 ![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
-
-## 💻 Working environment
-[![Android 14](https://img.shields.io/badge/Android%2014%20UPC-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
-[![Arch](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://www.microsoft.com/en-us/software-download/windows10)
 
 ## 📱 Devices in use
 [![Redmi Note 8 Pro](https://img.shields.io/badge/-Redmi%20Note%208%20Pro-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/ru/redmi-note-8-pro/)
