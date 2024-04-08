@@ -30,7 +30,6 @@
 
 ## 💻 Working environment
 [![Android 14](https://img.shields.io/badge/Android%2014%20UPC-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
-[![Windows](https://img.shields.io/badge/Windows%2011-1793d1?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/software-download/windows10)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://www.microsoft.com/en-us/software-download/windows10)
 
 ## 📱 Devices in use
