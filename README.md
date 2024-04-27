@@ -23,7 +23,7 @@
 
 ## 💻 Working environment
 [![Android 14](https://img.shields.io/badge/Android%2014%20UPC-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
-[![Arch](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://www.microsoft.com/en-us/software-download/windows10)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/desktop/)
 
 ## 🌱 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=000)
