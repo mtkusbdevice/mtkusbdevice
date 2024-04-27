@@ -22,7 +22,7 @@
 ![GPU](https://img.shields.io/badge/ASUS-Radeon_Dual_RX_6500XT_OC_4GB-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 
 ## 💻 Working environment
-[![Android 14](https://img.shields.io/badge/Android%2014%20UPC-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
+[![Android 14](https://img.shields.io/badge/Android%2014%20QPR2-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/desktop/)
 
 ## 🌱 Programming Languages
