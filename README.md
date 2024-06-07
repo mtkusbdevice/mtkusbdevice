@@ -29,7 +29,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=000)
 ![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=fff)
+![bash](https://img.shields.io/badge/-bash-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 
 ## 📱 Devices in use
 [![Redmi Note 8 Pro](https://img.shields.io/badge/-Redmi%20Note%208%20Pro-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/ru/redmi-note-8-pro/)
