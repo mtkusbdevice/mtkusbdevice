@@ -2,8 +2,8 @@
 [![mtkusbdevice's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtkusbdevice&show_icons=true&theme=catppuccin_mocha&border_radius=12&hide_border=true)](https://github.com/mtkusbdevice)
 
 [![mtkusbdevice's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mtkusbdevice&layout=compact&show_icons=true&theme=catppuccin_mocha&border_radius=12&hide_border=true)](https://github.com/mtkusbdevice)
- 
-[![Discord Presence](https://lanyard.cnrad.dev/api/935607522927198252)](https://discord.com/users/935607522927198252)
+
+[//]: # "[![Discord Presence](https://lanyard.cnrad.dev/api/935607522927198252)](https://discord.com/users/935607522927198252)"
 
 - A Student
 - ru-RU / en-US / ua-UA
