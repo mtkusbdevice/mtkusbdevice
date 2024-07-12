@@ -24,7 +24,7 @@
 
 ## 💻 Working environment
 [![Android 14](https://img.shields.io/badge/Android%2014%20QPR2-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/desktop/)
+[![openSUSE](https://img.shields.io/badge/openSUSE%20Tumbleweed-78BC24?style=flat-square&logo=opensuse&logoColor=ffffff)](https://www.opensuse.org/)
 
 ## 🌱 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=000)
