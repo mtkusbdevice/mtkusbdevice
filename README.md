@@ -24,7 +24,7 @@
 
 ## 💻 Working environment
 [![Android 14](https://img.shields.io/badge/Android%2014%20QPR2-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
-[![openSUSE](https://img.shields.io/badge/openSUSE%20Tumbleweed-78BC24?style=flat-square&logo=opensuse&logoColor=ffffff)](https://www.opensuse.org/)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org/download)
 
 ## 🌱 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=000)
@@ -34,5 +34,6 @@
 ![bash](https://img.shields.io/badge/-bash-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 
 ## 📱 Devices in use
+[![Pixel 7 Pro](https://img.shields.io/badge/-Pixel%207%20Pro-white?style=flat-square&logo=google&logoColor=000000)](https://www.mi.com/ru/redmi-note-8-pro/)
 [![Redmi Note 8 Pro](https://img.shields.io/badge/-Redmi%20Note%208%20Pro-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/ru/redmi-note-8-pro/)
 [![vivo Y1s](https://img.shields.io/badge/-vivo%20Y1s-blue?style=flat-square&logo=android&logoColor=ffffff)](https://vivo.com)
