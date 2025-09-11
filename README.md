@@ -1,4 +1,4 @@
-# _<ins>[mtkusbdevice](https://mtk.dest4590.lol)</ins>_
+# _mtkusbdevice_
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mtkusbdevice&show_icons=true&theme=catppuccin_mocha&border_radius=12&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtkusbdevice&layout=compact&show_icons=true&theme=catppuccin_mocha&border_radius=12&hide_border=true">
@@ -12,18 +12,16 @@
 - Coder / ~~Developer~~
 
 ## 💻 Current Workstation specs
-![MB](https://img.shields.io/badge/Gigabyte-A520M_K-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+![MB](https://img.shields.io/badge/MSI-Bravo_B7ED-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 <br>
-![SSD1](https://img.shields.io/badge/Netac-Basic_512GB-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
-<br>
-![SSD2](https://img.shields.io/badge/KIOXIA-Exceria_480GB-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
-<br>
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5500-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_7535HS-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 <br> 
-![GPU](https://img.shields.io/badge/ASUS-Radeon_Dual_RX_6500XT_OC_4GB-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+![GPU](https://img.shields.io/badge/AMD-Radeon_660M-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+<br> 
+![GPU1](https://img.shields.io/badge/AMD-Radeon_RX_6550M_4GB-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 
 ## 💻 Working environment
-[![Android 15](https://img.shields.io/badge/Android%2015%20QPR2-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-15/)
+[![Android 16](https://img.shields.io/badge/Android%2016%20QPR1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-16/)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org/download)
 
 ## 🌱 Programming Languages
