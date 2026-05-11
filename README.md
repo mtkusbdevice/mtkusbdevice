@@ -1,15 +1,15 @@
 # _mtkusbdevice_
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mtkusbdevice&show_icons=true&theme=catppuccin_mocha&border_radius=12&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtkusbdevice&layout=compact&show_icons=true&theme=catppuccin_mocha&border_radius=12&hide_border=true">
 </div>
 
-[//]: # "[![Discord Presence](https://lanyard.cnrad.dev/api/935607522927198252)](https://discord.com/users/935607522927198252)"
+[//]: # "[![Discord Presence](https://lanyard.cnrad.dev/api/935607522927198252)](https://discord.com/users/935607522927198252)" -->
 
 - A Student / Technician
 - ru-RU / en-US / ua-UA
 - Russian / Ukraine, Donetskaya Oblast' / UTC+3
-- Coder / ~~Developer~~
+- Cat / ~~Developer~~
 
 ## 💻 Current Workstation specs
 ![MAC](https://img.shields.io/badge/Apple-Mac_mini_M4-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
