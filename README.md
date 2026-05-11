@@ -28,6 +28,8 @@
 ![GPU](https://img.shields.io/badge/NVIDIA-GT_520-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 <br> 
 ![ROUTER](https://img.shields.io/badge/MIKROTIK-hAP_ax2-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+<br>
+![SWITCH](https://img.shields.io/badge/ELTEX-MES1124MB_28_port-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 
 ## 💻 Working environment
 ![Android 16 | OneUI 8](https://img.shields.io/badge/Android%2016%20OneUI%208-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
