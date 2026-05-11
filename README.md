@@ -11,6 +11,13 @@
 - Russian / Ukraine, Donetskaya Oblast' / UTC+3
 - Coder / ~~Developer~~
 
+## 💻 Current Workstation specs
+![MAC](https://img.shields.io/badge/Apple-Mac_mini_M4-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+<br>
+![CPU](https://img.shields.io/badge/Apple-M4-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+<br> 
+![RAM](https://img.shields.io/badge/RAM-16GB_7500MTs-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+
 ## 🖥️ Current Server specs
 ![MB](https://img.shields.io/badge/TYAN-S7050GM4NR-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 <br>
@@ -22,20 +29,9 @@
 <br> 
 ![ROUTER](https://img.shields.io/badge/MIKROTIK-hAP_ax2-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 
-## 💻 Current Workstation specs
-![MB](https://img.shields.io/badge/MSI-Bravo_15_B7ED-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
-<br>
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_7535HS-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
-<br> 
-![RAM](https://img.shields.io/badge/DDR5-SAMSUNG_24GB_4800Mhz-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
-<br> 
-![GPU](https://img.shields.io/badge/AMD-Radeon_660M-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
-<br> 
-![GPU1](https://img.shields.io/badge/AMD-Radeon_RX_6550M_4GB-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
-
 ## 💻 Working environment
 ![Android 16 | OneUI 8](https://img.shields.io/badge/Android%2016%20OneUI%208-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
-![win](https://img.shields.io/badge/Windows%2011-1793d1?style=flat-square&logo=windows&logoColor=ffffff)
+![macos](https://img.shields.io/badge/macOS%20Tahoe%2026-1793d1?style=flat-square&logo=apple&logoColor=ffffff)
 
 ## 🌱 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=000)
