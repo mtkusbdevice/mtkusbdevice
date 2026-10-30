@@ -25,14 +25,14 @@
 <br> 
 ![RAM](https://img.shields.io/badge/DDR3-SAMSUNG_48GB_ECC_1666Mhz-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 <br> 
-![GPU](https://img.shields.io/badge/NVIDIA-GT_520-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+![GPU](https://img.shields.io/badge/AMD-RX_580-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 <br> 
 ![ROUTER](https://img.shields.io/badge/MIKROTIK-hAP_ax2-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 <br>
-![SWITCH](https://img.shields.io/badge/ELTEX-MES1124MB_28_port-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+![SWITCH](https://img.shields.io/badge/CISCO-CATALYST_2960_48_port-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 
 ## 💻 Working environment
-![Android 16 | OneUI 8](https://img.shields.io/badge/Android%2016%20OneUI%208-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android 17 | OneUI 9](https://img.shields.io/badge/Android%2016%20OneUI%208-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![macos](https://img.shields.io/badge/macOS%20Tahoe%2026-1793d1?style=flat-square&logo=apple&logoColor=ffffff)
 
 ## 🌱 Programming Languages
@@ -44,7 +44,6 @@
 
 ## 📱 Devices in use
 ![Galaxy S24](https://img.shields.io/badge/-Galaxy%20S24-purple?style=flat-square&logo=samsung&logoColor=ffffff)
-![Pixel 7 Pro](https://img.shields.io/badge/-Pixel%207%20Pro-white?style=flat-square&logo=google&logoColor=000000)
 [![iPhone 6s](https://img.shields.io/badge/-iPhone%206s-pink?style=flat-square&logo=apple&logoColor=000000)](https://apple.com)
 [![Redmi Note 8 Pro](https://img.shields.io/badge/-Redmi%20Note%208%20Pro-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/ru/redmi-note-8-pro/)
 [![vivo Y1s](https://img.shields.io/badge/-vivo%20Y1s-blue?style=flat-square&logo=android&logoColor=ffffff)](https://vivo.com)
