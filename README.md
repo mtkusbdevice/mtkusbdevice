@@ -32,8 +32,8 @@
 ![SWITCH](https://img.shields.io/badge/CISCO-CATALYST_2960_48_port-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 
 ## 💻 Working environment
-![Android 17 | OneUI 9](https://img.shields.io/badge/Android%2016%20OneUI%208-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
-![macos](https://img.shields.io/badge/macOS%20Tahoe%2026-1793d1?style=flat-square&logo=apple&logoColor=ffffff)
+![Android 17 | OneUI 9](https://img.shields.io/badge/Android%2017%20OneUI%209-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![macos](https://img.shields.io/badge/macOS%20Golden%20Gate%2027-1793d1?style=flat-square&logo=apple&logoColor=ffffff)
 
 ## 🌱 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=000)
